@@ -3,7 +3,7 @@
   "version": "0.4.0",
   "private": true,
   "description": "Liquid language support for Atom.",
-  "repository": "https://github.com/kieranmasterton/language-liquid",
+  "repository": "https://github.com/chrisnesbit1/language-liquid",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
