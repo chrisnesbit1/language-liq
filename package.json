@@ -1,9 +1,9 @@
 {
-  "name": "language-liquid",
+  "name": "language-liq",
   "version": "0.4.0",
   "private": true,
-  "description": "Liquid language support for Atom.",
-  "repository": "https://github.com/chrisnesbit1/language-liquid",
+  "description": "Liquid language support for Atom (with added support for *.liq files).",
+  "repository": "https://github.com/chrisnesbit1/language-liq",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
